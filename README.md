@@ -11,11 +11,7 @@
 ---
 
 <p align="center">
-I'm a 2nd year student pursuing Master's in Computer Applications 🎓 from Guru Gobind Singh Indraprastha University 🏛️.<br><br>
-
-I'm a passionate learner who's always willing to learn and work across technologies and domains 💻.<br><br>
-
-I love to explore new real-life problems ✨, leverage them and also love to guide and mentor newbies 🚀.
+I'm a 2nd year student pursuing BE in Computer Applications 🎓 from jss science and technology University 🏛️.<br><br>I'm a passionate learner who's always willing to learn and work across technologies and domains 💻. 🚀.
 </p>
 
 ---
