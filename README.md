@@ -2,27 +2,38 @@
   <img src="https://raw.githubusercontent.com/Anurampranav/Anurampranav/main/banner.png" width="100%" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Anuram Pranav</h1>
-<h3 align="center">A Web Developer in making 🚀</h3>
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Anurampranav&color=brightgreen" />
-  <img src="https://img.shields.io/github/repos/Anurampranav?color=blue" />
-  <img src="https://img.shields.io/github/commit-activity/m/Anurampranav/Anurampranav?color=green" />
+  <img src="https://komarev.com/ghpvc/?username=Anurampranav&label=Visits&color=grey&style=for-the-badge" />
+  <img src="https://img.shields.io/github/repos/Anurampranav?style=for-the-badge&color=green" />
+  <img src="https://img.shields.io/github/commit-activity/m/Anurampranav/Anurampranav?style=for-the-badge&color=brightgreen" />
 </p>
 
 ---
 
+<h1 align="center">Hi 👋, I'm Anuram Pranav</h1>
+
+---
+
 ## 🧠 About Me
-I'm a student passionate about tech and building real-world projects 💻  
-I love exploring new technologies and solving real-life problems 🚀  
-Currently learning **DSA, AI/ML, and Full Stack Development**
+- 💻 Tech Enthusiast | C • C++ • Python  
+- 🎓 Student at JSS Science and Technology University  
+- 🚀 Passionate about building real-world projects  
+- 🧠 Learning DSA, AI/ML & Full Stack Development  
 
 ---
 
 ## ⚙️ Technology Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,react,nodejs,html,css,git,github" />
+  <img src="https://img.shields.io/badge/C-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/C++-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/React-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Node.js-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MongoDB-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Git-black?style=for-the-badge" />
 </p>
 
 ---
@@ -35,7 +46,7 @@ Currently learning **DSA, AI/ML, and Full Stack Development**
 
 ---
 
-## 🔥 Contribution Stats
+## 🔥 GitHub Streak
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anurampranav&theme=radical" />
 </p>
