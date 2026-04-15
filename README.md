@@ -1,52 +1,53 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Anurampranav/Anurampranav/main/banner.png" width="100%" />
 </p>
+
 <h1 align="center">Hi 👋, I'm Anuram Pranav</h1>
-<h3 align="center">💻 networking Mindset | 🚀 Developer | 🤖 AI Enthusiast</h3>
+<h3 align="center">A Web Developer in making 🚀</h3>
 
----
-
-## 🚀 About Me
-- 🎓 Student passionate about tech & real-world projects  
-- 🧠 Learning **DSA, AI/ML, and Full Stack Development**  
-- ⚡ Building projects like **YouMatter (Hackathon Project)**  
-
----
-
-## ⚙️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,react,nodejs,git,github,firebase" />
+  <img src="https://komarev.com/ghpvc/?username=Anurampranav&color=brightgreen" />
+  <img src="https://img.shields.io/github/repos/Anurampranav?color=blue" />
+  <img src="https://img.shields.io/github/commit-activity/m/Anurampranav/Anurampranav?color=green" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 🧠 About Me
+I'm a student passionate about tech and building real-world projects 💻  
+I love exploring new technologies and solving real-life problems 🚀  
+Currently learning **DSA, AI/ML, and Full Stack Development**
+
+---
+
+## ⚙️ Technology Stack
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anurampranav&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anurampranav&theme=tokyonight" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,react,nodejs,html,css,git,github" />
 </p>
 
 ---
 
-## 📈 Most Used Languages
+## 📊 My GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anurampranav&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Anurampranav&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anurampranav&layout=compact&theme=radical" width="48%" />
 </p>
 
 ---
 
-## 🔥 Contribution Graph
+## 🔥 Contribution Stats
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anurampranav&theme=tokyo-night" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anurampranav&theme=radical" />
 </p>
 
 ---
 
-## 🧠 Coding Profiles
-- 💡 LeetCode: *Add your link here*
-- 🏆 Codeforces: *Add your link here*
+## 📈 Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anurampranav&theme=react-dark" />
+</p>
 
 ---
 
 ## ⚡ Fun Fact
-> “I don’t just use technology, I build it.” 🚀
+> I build things that actually matter 🚀
