@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="banner.png" width="100%" />
+  <img src="https://raw.githubusercontent.com/Anurampranav/Anurampranav/main/banner.png" width="100%" />
 </p>
-<img src="https://raw.githubusercontent.com/Anurampranav/Anurampranav/main/banner.png" width="100%" />
 <h1 align="center">Hi 👋, I'm Anuram Pranav</h1>
 <h3 align="center">💻 networking Mindset | 🚀 Developer | 🤖 AI Enthusiast</h3>
 
