@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Anuram Pranav</h1>
-<h3 align="center">💻 Hacker Mindset | 🚀 Developer | 🤖 AI Enthusiast</h3>
+<h3 align="center">💻 networking Mindset | 🚀 Developer | 🤖 AI Enthusiast</h3>
 
 ---
 
