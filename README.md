@@ -48,7 +48,7 @@ I'm a 2nd year student pursuing BE in Computer Applications 🎓 from jss scienc
 
 ---
 
-## 🔥 GitHub Streak
+## 🔥 GitHub Streak...
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anurampranav&theme=radical" />
 </p>
