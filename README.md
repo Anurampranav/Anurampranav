@@ -53,14 +53,7 @@ I'm a passionate learner who's always willing to learn and work across technolog
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anurampranav&theme=radical" />
 </p>
 
----
 
-## 📈 Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anurampranav&theme=react-dark" />
-</p>
-
----
 
 ## ⚡ Fun Fact
 > I build things that actually matter 🚀
