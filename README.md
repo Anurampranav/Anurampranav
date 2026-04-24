@@ -40,7 +40,7 @@ I'm a passionate learner who's always willing to learn and work across technolog
 
 ---
 
-## 📊 My GitHub Stats
+## 📊 My GitHub Stats 📊
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Anurampranav&show_icons=true&theme=radical" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anurampranav&layout=compact&theme=radical" width="48%" />
