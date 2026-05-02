@@ -21,7 +21,7 @@ I'm a passionate learner who's always willing to learn and work across technolog
 ---
 
 ## 🧠 About Me
-- 🌌 **Focus:** AI/ML & Full Stack Development  
+- 🌌 **Focus:** AI/ML & Full Stack Development 
 - 🎓 **Education:** Student at JSS Science and Technology University  
 - 🚀 **Mission:** Building high-impact real-world projects  
 - 🧠 **Currently:** Mastering DSA and Scalable Architectures  
@@ -44,7 +44,7 @@ I'm a passionate learner who's always willing to learn and work across technolog
 
 ---
 
-## 📊 My GitHub Stats 🌌
+## 📊 My GitHub Stats 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Anurampranav&show_icons=true&theme=tokyonight&hide_border=true&title_color=36BCF7&icon_color=a9b1d6" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anurampranav&layout=compact&theme=tokyonight&hide_border=true&title_color=36BCF7" width="48%" />
