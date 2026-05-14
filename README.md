@@ -15,7 +15,7 @@
 
 <p align="center">
 I'm a 2nd year student pursuing BE in Computer Applications 🎓 from JSS Science and Technology University 🏛️.<br>
-I'm a passionate learner who's always willing to learn and work across technologies and domains 💻 🚀
+I'm a passionate learner who's always willing to learn and work across technologies and domains. 💻 🚀
 </p>
 
 ---
