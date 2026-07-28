@@ -20,7 +20,7 @@ I'm a passionate learner who's always willing to learn and work across technolog
 
 ---
 
-## 🧠 About Me
+## 🧠 About Me !
 - 🌌 **Focus:** AI/ML & Full Stack Development 
 - 🎓 **Education:** Student at JSS Science and Technology University  
 - 🚀 **Mission:** Building high-impact real-world projects  
