@@ -1,71 +1,50 @@
 <div align="center">
 
-<img src="./banner.png" width="100%" />
+<img src="./banner.png" width="100%" alt="Anuram Pranav Banner">
 
 <br>
 
-# 👋 Hi, I'm Anuram Pranav
+# ⚡ ANURAM PRANAV
 
-### `Computer Science Student • Developer • Builder`
+### `BUILDING • BREAKING • LEARNING • REBUILDING`
 
-<p>
-  <a href="https://github.com/Anurampranav">
-    <img src="https://img.shields.io/badge/GitHub-Anurampranav-181717?style=for-the-badge&logo=github">
-  </a>
-  <a href="https://www.linkedin.com/in/anuram-pranav">
-    <img src="https://img.shields.io/badge/LinkedIn-Anuram%20Pranav-0A66C2?style=for-the-badge&logo=linkedin">
-  </a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=700&lines=Computer+Science+%7C+Builder+%7C+Problem+Solver;AI+%7C+Backend+%7C+Full+Stack+Development;Turning+ideas+into+things+that+actually+work.;Currently+building+something+interesting+%F0%9F%91%80" alt="Typing SVG">
 
-> Building things, breaking things, learning, and building them better.
+<br><br>
+
+<a href="https://github.com/Anurampranav">
+<img src="https://img.shields.io/badge/GitHub-Anurampranav-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+
+<a href="https://www.linkedin.com/in/anuram-pranav">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn">
+</a>
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## 🧬 `whoami`
 
-I'm a **Computer Science student at JSS Science and Technology University** who enjoys turning ideas into practical software.
+```text
+┌──────────────────────────────────────────────────────────┐
+│                                                          │
+│  NAME       →  Anuram Pranav                             │
+│  ROLE       →  Student Developer / Builder              │
+│  FIELD      →  Computer Science                         │
+│  UNIVERSITY →  JSS Science and Technology University    │
+│                                                          │
+│  I don't just learn technologies.                        │
+│  I try to build things with them.                       │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
+```
 
-- 🎓 B.E. Computer Applications / CSBS
-- 🤖 Interested in **AI, Machine Learning & Computer Vision**
-- 🌐 Building with **Web & Backend Technologies**
-- 🔌 Exploring **IoT, automation & smart systems**
-- 🚀 Participating in **hackathons and technical projects**
-- 📸 Photography & videography enthusiast
-- 🎮 Tech explorer & casual gamer
-
----
-
-## ⚡ Tech Stack
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=c,cpp,python,js,php" />
-</p>
-
-### Web & Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,nodejs,express,fastapi" />
-</p>
-
-### AI / Data / Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=pytorch,opencv,mysql,mongodb,postgres,sqlite" />
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,arduino" />
-</p>
+> `curiosity → experiment → failure → debugging → solution`
 
 ---
 
-# 🚀 Featured Projects
+## 🛰️ CURRENTLY BUILDING
 
 <table>
 <tr>
@@ -74,10 +53,12 @@ I'm a **Computer Science student at JSS Science and Technology University** who 
 
 ### 🛡️ AI Guardian
 
-AI-powered emergency detection system designed to analyze CCTV footage and identify potentially dangerous situations in real time.
+AI-powered emergency detection system designed to analyze CCTV footage and detect potentially dangerous situations in real time.
 
-**Tech:**  
-`YOLOv8` `OpenCV` `PyTorch` `FastAPI` `React` `WebSocket`
+**Stack**
+
+`YOLOv8` `OpenCV` `PyTorch`
+`FastAPI` `React` `WebSocket`
 
 </td>
 
@@ -85,97 +66,153 @@ AI-powered emergency detection system designed to analyze CCTV footage and ident
 
 ### 🌱 Smart Irrigation
 
-An IoT-based irrigation system designed to automate watering using real-time environmental and soil data.
+Exploring IoT + automation to create smarter agricultural systems using real-time environmental data.
 
-**Tech:**  
-`IoT` `Sensors` `Arduino` `Automation`
+**Focus**
 
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-### 💙 YouMatter
-
-A technology-focused platform designed around supportive digital experiences and AI-assisted interaction.
-
-**Tech:**  
-`AI` `React` `FastAPI` `Database`
-
-</td>
-
-<td width="50%">
-
-### 🚗 Vehicle Rental System
-
-A vehicle rental platform covering vehicle management, bookings, payments, reviews and administration.
-
-**Tech:**  
-`Node.js` `Express` `MongoDB` `React`
+`IoT` `Sensors` `Automation`
+`Smart Agriculture` `AI`
 
 </td>
 
 </tr>
 </table>
 
-<br>
+---
 
-<div align="center">
+## ⚙️ TECH STACK
 
-<a href="https://github.com/Anurampranav?tab=repositories">
-  <img src="https://img.shields.io/badge/VIEW_ALL_PROJECTS-21262d?style=for-the-badge&logo=github&logoColor=white">
-</a>
+### `LANGUAGES`
 
-</div>
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js,php" alt="Languages">
+</p>
+
+### `WEB & BACKEND`
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,nodejs,express,fastapi" alt="Web and Backend">
+</p>
+
+### `AI / DATA / DATABASE`
+
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch,opencv,mysql,mongodb,postgres,sqlite" alt="AI Data Database">
+</p>
+
+### `TOOLS`
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,arduino,linux" alt="Tools">
+</p>
 
 ---
 
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170"
-src="https://github-readme-stats.vercel.app/api?username=Anurampranav&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
-
-<img height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anurampranav&layout=compact&theme=github_dark&hide_border=true" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="90%"
-src="https://github-readme-streak-stats.herokuapp.com/?user=Anurampranav&theme=github-dark-blue&hide_border=true" />
-
-</div>
-
----
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img width="95%"
-src="https://github-readme-activity-graph.vercel.app/graph?username=Anurampranav&theme=github-compact&hide_border=true&area=true" />
-
-</div>
-
----
-
-# 🧠 Currently
+## 🧠 `WHAT I'M INTO`
 
 ```text
-┌───────────────────────────────────────────────┐
-│                                               │
-│  🔭 Building       → AI & IoT projects       │
-│  🌱 Learning       → AI / ML & System Design  │
-│  💻 Developing     → Full-Stack Applications  │
-│  🧪 Experimenting   → Computer Vision         │
-│  🚀 Exploring      → Open Source & Hackathons │
-│                                               │
-└───────────────────────────────────────────────┘
+AI / ML              ███████████████████░░   90%
+Backend Development  █████████████████░░░░   85%
+Web Development      ████████████████░░░░░   80%
+IoT / Automation     ██████████████░░░░░░░   70%
+Computer Science     ███████████████████░░   90%
+Photography          ███████████████░░░░░░   75%
+```
+
+---
+
+## 🧪 PROJECT LAB
+
+| PROJECT                      | WHAT IT DOES                    |   STATUS   |
+| :--------------------------- | :------------------------------ | :--------: |
+| 🛡️ **AI Guardian**          | AI-powered emergency detection  |  `ACTIVE`  |
+| 🌱 **Smart Irrigation**      | IoT-based irrigation automation | `BUILDING` |
+| 💙 **YouMatter**             | AI-focused wellbeing platform   | `BUILDING` |
+| 🚗 **Vehicle Rental System** | Full-stack rental management    |    `DEV`   |
+| 🌦️ **Weather Station API**  | Weather API using FastAPI       |   `DONE`   |
+
+---
+
+## 📊 GITHUB TELEMETRY
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Anurampranav&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" alt="GitHub Stats">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anurampranav&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages">
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Anurampranav&theme=github-dark-blue&hide_border=true" alt="GitHub Streak">
+
+</div>
+
+---
+
+## 🐍 CONTRIBUTION MATRIX
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Anurampranav/Anurampranav/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake">
+
+</div>
+
+---
+
+## 📡 ACTIVITY SIGNAL
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anurampranav&bg_color=0d1117&color=00d9ff&line=0077ff&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph">
+
+</div>
+
+---
+
+## 📸 OUTSIDE THE CODE
+
+> `Photography is where I slow down.`
+> `Programming is where I speed up.`
+
+When I'm not debugging something, you'll probably find me behind a camera,
+exploring technology, working on a project, or trying to turn another random
+idea into something real.
+
+---
+
+## 🎯 2026 MISSION
+
+```diff
++ Build more real-world projects
++ Go deeper into AI & backend engineering
++ Participate in more hackathons
++ Contribute to open source
++ Improve system design
++ Ship > Perfect
+```
+
+---
+
+<div align="center">
+
+### `IF YOU FOUND SOMETHING INTERESTING HERE, SAY HI.`
+
+<br>
+
+<a href="https://www.linkedin.com/in/anuram-pranav">
+<img src="https://img.shields.io/badge/LET'S_CONNECT-00D9FF?style=for-the-badge&logo=linkedin&logoColor=black" alt="Let's Connect">
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Anurampranav&style=flat-square&color=00d9ff" alt="Profile Views">
+
+<br><br>
+
+`© 2026 Anuram Pranav`
+
+</div>
