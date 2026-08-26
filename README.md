@@ -112,53 +112,7 @@ Photography          ███████████████░░░░�
 
 ---
 
-## 🛰️ CURRENTLY BUILDING
 
-<table>
-<tr>
-
-<td width="50%">
-
-### 🛡️ AI Guardian
-
-AI-powered emergency detection system designed to analyze CCTV footage and detect potentially dangerous situations in real time.
-
-**Stack**
-
-`YOLOv8` `OpenCV` `PyTorch`
-`FastAPI` `React` `WebSocket`
-
-</td>
-
-<td width="50%">
-
-### 🌱 Smart Irrigation
-
-Exploring IoT and automation to create smarter agricultural systems using real-time environmental data.
-
-**Focus**
-
-`IoT` `Sensors` `Automation`
-`Smart Agriculture` `AI`
-
-</td>
-
-</tr>
-</table>
-
----
-
-## 🧪 PROJECT LAB
-
-| PROJECT                      | WHAT IT DOES                    |   STATUS   |
-| :--------------------------- | :------------------------------ | :--------: |
-| 🛡️ **AI Guardian**          | AI-powered emergency detection  |  `ACTIVE`  |
-| 🌱 **Smart Irrigation**      | IoT-based irrigation automation | `BUILDING` |
-| 💙 **YouMatter**             | AI-focused wellbeing platform   | `BUILDING` |
-| 🚗 **Vehicle Rental System** | Full-stack rental management    |    `DEV`   |
-| 🌦️ **Weather Station API**  | Weather API using FastAPI       |   `DONE`   |
-
----
 
 ## 🎯 2026 MISSION
 
