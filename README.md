@@ -92,25 +92,7 @@ Photography          ███████████████░░░░�
 
 ---
 
-## 🐍 CONTRIBUTION MATRIX
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Anurampranav/Anurampranav/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake">
-
-</div>
-
----
-
-## 📊 ACTIVITY SIGNAL
-
-<div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Anurampranav&bg_color=0d1117&color=36BCF7&line=36BCF7&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph">
-
-</div>
-
----
 
 
 
