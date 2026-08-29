@@ -74,21 +74,7 @@ Computer Science     ███████████████████�
 Photography          ███████████████░░░░░░   75%
 ```
 
----
 
-## 📡 GITHUB TELEMETRY
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Anurampranav&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anurampranav&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages">
-
-<br><br>
-
-<img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=Anurampranav&theme=github-dark-blue&hide_border=true&stroke=36BCF7&ring=36BCF7&fire=36BCF7" alt="GitHub Streak">
-
-</div>
 
 ---
 
