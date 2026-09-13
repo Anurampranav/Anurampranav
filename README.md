@@ -35,7 +35,7 @@ Currently exploring <b>AI/ML, Full Stack Development, Backend Engineering and Io
 
 ---
 
-## ⚙️ Technology Stack
+## ⚙️ Technology Stack .
 
 ### `LANGUAGES`
 
