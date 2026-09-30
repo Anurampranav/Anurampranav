@@ -25,7 +25,7 @@ Currently exploring <b>AI/ML, Full Stack Development, Backend Engineering and Io
 
 ---
 
-## 🧠 About Me.
+## 🧠 About Me
 
 * 🌌 **Focus:** AI/ML & Full Stack Development
 * 🎓 **Education:** JSS Science and Technology University
@@ -106,7 +106,7 @@ into something real.
 
 ---
 
-## ⚡ FUN FACT.
+## ⚡ FUN FACT
 
 > 💡 Most of my projects start with a random **"what if?"** and end with me trying to make it actually work.
 
