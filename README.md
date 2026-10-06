@@ -40,7 +40,7 @@ Currently exploring <b>AI/ML, Full Stack Development, Backend Engineering and Io
 ### `LANGUAGES`
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,python,js,php" alt="Languages">
+<img src="https://skillicons.dev/icons?i=c,cpp,python" alt="Languages">
 </p>
 
 ### `WEB & BACKEND`
