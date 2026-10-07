@@ -25,7 +25,7 @@ Currently exploring <b>AI/ML, Full Stack Development, Backend Engineering and Io
 
 ---
 
-## 🧠 About Me.
+## 🧠 About Me
 
 * 🌌 **Focus:** AI/ML & Full Stack Development
 * 🎓 **Education:** JSS Science and Technology University
@@ -82,7 +82,7 @@ Photography          ███████████████░░░░�
 
 
 
-## 🎯 2026 MISSION.
+## 🎯 2026 MISSION
 
 ```diff
 + Build more real-world projects
@@ -95,7 +95,7 @@ Photography          ███████████████░░░░�
 
 ---
 
-## 📸 OUTSIDE THE CODE.
+## 📸 OUTSIDE THE CODE
 
 > `Photography is where I slow down.`
 > `Programming is where I speed up.`
