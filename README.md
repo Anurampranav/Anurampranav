@@ -25,7 +25,7 @@ Currently exploring <b>AI/ML, Full Stack Development, Backend Engineering and Io
 
 ---
 
-## 🧠 About Me
+## 🧠 About Me.
 
 * 🌌 **Focus:** AI/ML & Full Stack Development
 * 🎓 **Education:** JSS Science and Technology University
@@ -35,7 +35,7 @@ Currently exploring <b>AI/ML, Full Stack Development, Backend Engineering and Io
 
 ---
 
-## ⚙️ Technology Stack 
+## ⚙️ Technology Stack .
 
 ### `LANGUAGES`
 
@@ -43,19 +43,19 @@ Currently exploring <b>AI/ML, Full Stack Development, Backend Engineering and Io
 <img src="https://skillicons.dev/icons?i=c,cpp,python" alt="Languages">
 </p>
 
-### `WEB & BACKEND`
+### `WEB & BACKEND`.
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,nodejs,express,fastapi" alt="Web and Backend">
 </p>
 
-### `AI / DATA / DATABASE`
+### `AI / DATA / DATABASE`.
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=pytorch,opencv,mysql,mongodb,postgres,sqlite" alt="AI Data Database">
 </p>
 
-### `TOOLS`
+### `TOOLS`.
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,vscode,arduino,linux" alt="Tools">
@@ -63,7 +63,7 @@ Currently exploring <b>AI/ML, Full Stack Development, Backend Engineering and Io
 
 ---
 
-## 🧠 `WHAT I'M INTO`
+## 🧠 `WHAT I'M INTO`.
 
 ```text
 AI / ML              ███████████████████░░   90%
@@ -82,7 +82,7 @@ Photography          ███████████████░░░░�
 
 
 
-## 🎯 2026 MISSION
+## 🎯 2026 MISSION.
 
 ```diff
 + Build more real-world projects
@@ -95,7 +95,7 @@ Photography          ███████████████░░░░�
 
 ---
 
-## 📸 OUTSIDE THE CODE
+## 📸 OUTSIDE THE CODE.
 
 > `Photography is where I slow down.`
 > `Programming is where I speed up.`
@@ -106,7 +106,7 @@ into something real.
 
 ---
 
-## ⚡ FUN FACT
+## ⚡ FUN FACT.
 
 > 💡 Most of my projects start with a random **"what if?"** and end with me trying to make it actually work.
 
