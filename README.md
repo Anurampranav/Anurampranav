@@ -111,6 +111,23 @@ into something real.
 > 💡 Most of my projects start with a random **"what if?"** and end with me trying to make it actually work.
 
 ---
+<h2 align="left">> github</h2>
+
+<div align="center">
+
+  <a href="https://github.com/Anurampranav?tab=repositories">
+    <img src="https://img.shields.io/badge/REPOSITORIES-VIEW%20PROJECTS-black?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Anurampranav?tab=stars">
+    <img src="https://img.shields.io/badge/STARS-EXPLORE-black?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <br/><br/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anurampranav&theme=dark&hide_border=true&background=0D1117&ring=00D084&fire=00D084&currStreakLabel=00D084&sideLabels=FFFFFF&dates=888888" alt="GitHub Streak Stats" />
+
+</div>
 
 <div align="center">
 
