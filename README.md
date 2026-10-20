@@ -27,11 +27,11 @@ Currently exploring <b>AI/ML, Full Stack Development, Backend Engineering and Io
 
 ## 🧠 About Me.
 
-* 🌌 **Focus:** AI/ML & Full Stack Development
-* 🎓 **Education:** JSS Science and Technology University
-* 🚀 **Mission:** Building high-impact real-world projects
-* 🧠 **Currently:** Improving DSA, backend development & system design
-* 📸 **Outside code:** Photography & videography
+* 🌌 **Focus:** AI/ML & Full Stack Development.
+* 🎓 **Education:** JSS Science and Technology University.
+* 🚀 **Mission:** Building high-impact real-world projects.
+* 🧠 **Currently:** Improving DSA, backend development & system design.
+* 📸 **Outside code:** Photography & videography.
 
 ---
 
